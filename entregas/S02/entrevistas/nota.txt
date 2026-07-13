@@ -1,0 +1,19 @@
+=== ENTREVISTA 1: MARIO (ENFOQUE TRABAJO/U) 
+P1: Antier por la noche, cabal a las 8:30 PM cuando la red se congeló por completo.
+P2: Estaba entregando una tarea de la universidad y cargando un archivo pesado. Me dio un susto horrible.
+P3: Desconecté el router de la pared, esperé como 10 segundos y lo volví a conectar. Lo de siempre.
+P4: No llamé porque automatizan todo con un bot de WhatsApp que solo te dice "reinicie su router" y no ayuda en nada.
+P5: No lo supe con certeza. Solo vi que mi teléfono no cargaba y le pregunté a mi mamá si a ella le servía.
+P6: Tuve que activar los datos móviles de mi celular y compartirlos a la computadora para lograr subir la tarea.
+P7: Perder el tiempo con contestadoras automáticas que no entienden el problema técnico real.
+P8: Una app que detecte la falla antes que yo, me diga la verdad de qué pasa y me dé saldo de datos gratis por el fallo.
+
+=== ENTREVISTA 2: SILVIA (ENFOQUE ENTRETENIMIENTO) 
+P1: El fin de semana pasado, el sábado por la tarde mientras llovía fuerte.
+P2: Estábamos viendo una película en Netflix con mi familia y se empezó a quedar trabada a cada rato.
+P3: Revisé la aplicación del proveedor en mi celular para ver si había algún aviso de mantenimiento o corte.
+P4: Llamé por teléfono y pasé 20 minutos en espera escuchando música horrible antes de que me atendiera un agente.
+P5: Vi que el router tenía una luz roja parpadeando, así que asumí que era un problema general de la calle.
+P6: Dejamos de ver la televisión y nos pusimos a jugar un juego de mesa en la sala.
+P7: El tiempo que se pierde en llamadas y que los agentes siempre te hacen hacer los mismos pasos inútiles.
+P8: Una pantalla inteligente en el propio router que te diga textualmente: "Corte de cable en la zona, tiempo estimado 1 hora".
