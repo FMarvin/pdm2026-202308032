@@ -1,14 +1,14 @@
-# Guía de Entrevista — Control de Peso y Salud
+# Guía de Entrevista — Problemas con el Internet Residencial
 
 ## Introducción y Apertura
-Gracias por tomarte el tiempo. No hay respuestas correctas ni incorrectas, no estoy evaluando nada sobre ti, sino que quiero entender cómo manejas y percibes el control de tu peso y medidas en tu día a día, podria tomar notas de lo que me respondes?
+"Hola, gracias por tu tiempo. Quiero entender cómo ha sido tu experiencia con el servicio de internet en tu casa últimamente. No hay respuestas correctas ni incorrectas. ¿Me dejas tomar notas?"
 
-## Preguntas de la Guía 
-1. ¿Cuándo fue la última vez que te pesaste y bajo qué contexto ocurrió?
-2. ¿Cómo supiste si tu peso actual estaba bien o requería atención?
-3. ¿Usaste alguna herramienta o fórmula para calcular tu estado de salud ese día?
-4. ¿Qué pensaste o sentiste exactamente cuando viste el resultado numérico en la báscula?
-5. ¿Alguna vez intentaste anotar tu peso o medidas para llevar un registro constante?
-6. ¿Qué pasó con ese intento y por qué lo continuaste o lo abandonaste?
-7. ¿Qué es lo que más te da pereza o te frustra de llevar el control de tus datos físicos?
-8. Si tuvieras una solución ideal para monitorear tu peso, ¿cómo describirías que debería funcionar?
+## Preguntas 
+1. ¿Cuándo fue la última vez que se te cayó o se puso lento el internet en tu casa?
+2. ¿Qué estabas intentando hacer en ese momento y cómo te afectó?
+3. ¿Cuál fue la primera acción concreta que tomaste para intentar solucionar el problema?
+4. ¿Llamaste al servicio al cliente del proveedor? ¿Cómo describirías esa experiencia?
+5. ¿Cómo supiste si el problema era de tu router, de tu dispositivo o de la empresa proveedora?
+6. ¿Qué alternativa usaste para terminar lo que estabas haciendo mientras no había señal?
+7. ¿Qué es lo que más te da pereza o te frustra al reportar una falla de internet?
+8. Si pudieras inventar una solución ideal para gestionar tu internet, ¿cómo te gustaría que fuera?
