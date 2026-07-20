@@ -1,6 +1,6 @@
 # Handout S3 · Reflexión
 
-**Estudiante (carnet):** 202308032  **Entrevistado (alias):** Mario
+**Marvin Alfonso Fuentes Monzón:** 202308032  **Entrevistado (alias):** Mario
 
 ---
 
@@ -18,4 +18,3 @@ La mayor oportunidad está en la Fase 4 de mi mapa (cuando busca ayuda y se topa
 
 ---
 
-*Guarda estas tres respuestas para tu entrega `entregas/S03/reflexion.md`.*
